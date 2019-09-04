@@ -1,0 +1,5 @@
+main: org.guildcraft.guildquests.GuildQuests
+name: GuildQuests
+version: 1.0.0
+author: short1der, rewardedcarton
+description: Adds quests to GuildPvP!
